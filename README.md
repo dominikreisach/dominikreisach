@@ -1,8 +1,8 @@
-<h2 align="left">Hi, my name is Dominik ✌️</h2>
+<h2 align="right">Hi, I'm Dom ✌️</h2>
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"/>
@@ -32,7 +32,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="30" alt="unity logo"/>
   <img width="12" />    
 </div>
-
-###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominikreisach&show_icons=true&locale=en&layout=compact" alt="dominikreisach" /></p>
